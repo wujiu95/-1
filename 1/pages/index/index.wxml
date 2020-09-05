@@ -1,0 +1,11 @@
+
+<view>{{father}}</view>
+<view>
+  <sonson grade="{{son}}"></sonson>
+</view>
+<view>
+<!-- <view  >
+   <sonson  bind:sendEvent="sendEvent"></sonson>
+</view> -->
+</view>
+<!-- {{son1}} -->

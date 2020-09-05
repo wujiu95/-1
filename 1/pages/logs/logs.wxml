@@ -1,0 +1,8 @@
+<!--logs.wxml-->
+
+<view>子组件页</view>
+<view >
+    {{grade}}
+</view>
+<view bindtap="sendMesgToFather">点我向父组件传值</view>
+
